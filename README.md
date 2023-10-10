@@ -1,4 +1,4 @@
-# Iris Flower Classification using Machine Learning 
+# Iris-Flower-Classification-Machine-Learning 
 This is a simple Iris classification model built using Scikit-Learn tools. The model is trained to classify Iris flowers into different species - Iris Versicolor, Iris Setosa, and Iris Virginica, based on their sepal and petal measurements. The libraries and algorithm used:
 
 1. Pandas: Pandas is used for data manipulation and analysis.
